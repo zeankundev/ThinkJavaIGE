@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SilverJProject>
+  <!--ThinkJava (latest) Java Application Project-->
+  <ProjectName>BasicGameEngineInJava</ProjectName>
+  <ProjectLocationFolder>E:\android\BasicGameEngineInJava</ProjectLocationFolder>
+  <ProjectLocationFile>E:\android\BasicGameEngineInJava\BasicGameEngineInJava.tjsln</ProjectLocationFile>
+  <ProjectType>ApplicationType</ProjectType>
+  <JavaClassFile>E:\android\BasicGameEngineInJava\srcclasses\Game.java</JavaClassFile>
+  <VisualFile>E:\android\BasicGameEngineInJava\srcclasses\Game.java</VisualFile>
+  <MainClassFile>E:\android\BasicGameEngineInJava\srcclasses\Game.java</MainClassFile>
+  <JavaClassFile>E:\android\BasicGameEngineInJava\srcclasses\Texture.java</JavaClassFile>
+  <VisualFile>E:\android\BasicGameEngineInJava\srcclasses\Texture.java</VisualFile>
+  <OtherFile>E:\android\BasicGameEngineInJava\srcclasses\F314B9HI9OSUEND.png</OtherFile>
+  <OtherFile>E:\android\BasicGameEngineInJava\srcclasses\FIRXLR9I9OSUENE.png</OtherFile>
+  <OtherFile>E:\android\BasicGameEngineInJava\srcclasses\FOI9UFUI9OSUENT.png</OtherFile>
+  <OtherFile>E:\android\BasicGameEngineInJava\srcclasses\FYXEP1HI9OSUENS.png</OtherFile>
+  <JavaClassFile>E:\android\BasicGameEngineInJava\srcclasses\Camera.java</JavaClassFile>
+  <VisualFile>E:\android\BasicGameEngineInJava\srcclasses\Camera.java</VisualFile>
+  <JavaClassFile>E:\android\BasicGameEngineInJava\srcclasses\Screen.java</JavaClassFile>
+  <VisualFile>E:\android\BasicGameEngineInJava\srcclasses\Screen.java</VisualFile>
+</SilverJProject>
