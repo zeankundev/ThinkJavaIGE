@@ -1,6 +1,6 @@
 # ThinkJava Integrated Game Engine
 An experimental 3D game engine for ThinkJava plug in. Supports all kinds of PC
-as long you have JRE installed. Cross platform and support for all. Able to render complex objects such as a ramp or cylinder without computer memory overconsumption whlist maintaining 60 or more FPS even though there are complex objects there
+as long you have JRE installed. Cross platform and support for all. Able to render complex objects such as a ramp or cylinder without computer memory overconsumption whlist maintaining 60 or more FPS even though there are complex objects there. Uses an advanced rendering and 3D processing architecture in Java that is strong, fast, lightweight without using the GPU. Advanced rendering and advanced 3D ultimate processor can be found on Camera.java and Screen.java
 ## How to use and modify?
 ***Note: this only works for ThinkJava. If you don't have ThinkJava on your Windows machine, [download it here.](https://github.com/zeankundev/ThinkJava)***
 <br>
